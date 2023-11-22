@@ -1,0 +1,104 @@
+@media (min-width: 800px){
+    html {
+        background-image: url('../assets/background.webp');
+    }
+
+}
+
+@media (min-width: 1080px){
+    h1, h2:first-of-type, #goDownloadBtn {
+        position: relative;
+    }
+
+    h1 {
+        left: 50%;
+        top: 180px;
+        font-size: 3.5rem;
+        background-color: hsla(213, 57%, 15%, 0.6);
+        width: 55%;
+        border-radius: 24px;
+    }
+
+    h3 {
+        font-size: 2.5rem;
+    }
+
+    p {
+        font-size: 1.8rem;
+    }
+
+    #venedolarTitle {
+        left: 450px;
+        top: 380px;
+        font-size: 3.5rem;
+    }
+
+    #goDownloadBtn {
+        top: 150px;
+        right: 150px;
+    }
+
+    #lastH2 {
+        font-size: 3.5rem;
+    }
+
+    #screenShotContainer {
+        width: 500px;
+    }
+
+    #feature3Box {
+        width: 250px;
+    }
+
+    #feature2Box {
+        width: 240px;
+    }
+
+    #feature1Box {
+        width: 300px;
+    }
+
+    section {
+        width: 60%;
+    }
+
+    section:first-of-type {
+        flex-direction: row;
+        width: 100%;
+    }
+
+    .logoContainer {
+        width: 550px;
+        margin-right: 140px;
+    }
+
+    .venedolarContainer {
+        margin-bottom: 180px;
+    }
+
+    .button {
+        font-size: 1.8rem;
+        width: 200px;
+        height: 60px;
+        padding: 8px;
+    }
+
+    .download {
+        height: 90px;
+    }
+
+    .images {
+        transition: scale ease-out .2s;
+    }
+
+    .images:hover {
+        scale: 1.2;
+    }
+
+}
+
+@media (max-width: 800px) {
+    header {
+        background-color: hsla(213, 57%, 15%, 0.6);
+    }
+}

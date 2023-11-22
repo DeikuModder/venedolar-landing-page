@@ -1,0 +1,223 @@
+@font-face {
+    font-family: 'Roboto-Slab';
+    src: url('../assets/RobotoSlab-VariableFont_wght.ttf');
+    font-display: swap;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto-Slab';
+    list-style: none;
+}
+
+button, a {
+    cursor: pointer;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:any-link, a {
+    color: #fff;
+}
+
+html {
+    background: url('../assets/background_mobile.webp') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    backdrop-filter: blur(4px);
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    height: 100px;
+    padding: 4px;
+}
+
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+.venedolarContainer, section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    padding: 12px;
+
+    justify-content: space-around;
+}
+
+section:first-of-type {
+    height: calc(100vh - 100px);
+}
+
+h2 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #05203f;
+    margin-bottom: 24px;
+    background-color: #00b86b;
+    border-radius: 12px;
+    padding: 8px;
+}
+
+h2:last-of-type {
+    font-size: 2rem;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.8rem;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: hsla(213, 57%, 15%, 0.8);
+    color: #fff;
+}
+
+p {
+    font-size: 1.3rem;
+    text-wrap: pretty;
+    text-align: center;
+}
+
+footer {
+    background-color: #1f1f1f;
+    color: #fff;
+    font-size: 1rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.rightContainer, .leftContainer {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    padding: 8px;
+}
+
+.rightContainer {
+    justify-content: flex-end;
+    gap: 24px;
+}
+
+.rightContainer div {
+    width: 50px;
+    transition: transform ease-out .2s;
+}
+
+.rightContainer div:hover {
+    transform: translateY(-16px);
+}
+
+.rightContainer div:last-of-type {
+    width: 60px;
+}
+
+.footerLogo {
+    width: 100%;
+}
+
+.leftContainer {
+    justify-content: flex-start;
+}
+
+.logoContainer {
+    width: 280px;
+}
+
+.appLogo {
+   width: 100%;
+}
+
+.button {
+    background-color: #112e4e;
+    width: 180px;
+    height: 56px;
+    text-align: center;
+    border-radius: 24px;
+    font-size: 1.4rem;
+    padding: 12px;
+    transition: scale ease-in-out .1s;
+}
+
+.button:hover {
+    scale: 1.05;
+}
+
+.download {
+    width: 240px;
+    height: 64px;
+}
+
+.images {
+    box-shadow: -1px 41px 39px 11px rgba(0,0,0,0.55);
+    -webkit-box-shadow: -1px 41px 39px 11px rgba(0,0,0,0.55);
+    -moz-box-shadow: -1px 41px 39px 11px rgba(0,0,0,0.55);
+}
+
+#feature1Box {
+    width: 270px;
+}
+
+#featureImg_1 {
+    width: 100%;
+}
+
+#feature2Box {
+    width: 200px;
+}
+
+#featureImg_2 {
+    width: 100%;
+}
+
+#feature3Box {
+    width: 200px;
+    height: 364px;
+}
+
+#featureImg_3 {
+    width: 100%;
+    height: 100%;
+}
+
+#screenShotContainer {
+    width: 300px;
+    height: 250px;
+}
+
+#app_screenshot {
+    width: 100%;
+    height: 100%;
+}
+
+
+
