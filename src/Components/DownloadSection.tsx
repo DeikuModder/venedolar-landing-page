@@ -5,11 +5,11 @@ const DownloadSection = () => {
     <section id="downloadSection">
       <h2 id='lastH2'>Que estas esperando?</h2>
 
-      <p>Toda la información del dolar en Venezuela a tu alcance desde tu computadora!</p>
+      <p>Toda la información del dolar en Venezuela al alcance de tu escritorio!</p>
       <img src={screenshot} loading='lazy' alt='venedolar-screenshot' id='app_screenshot' className='images'/>
  
       <a 
-      href='https://download1325.mediafire.com/5sj6okyq38dgL97ZZtMugI0SyNZVWDNvO8cJcKkyo-CkYbgCzBG8MIVYdYKdCcdz6S71khYc8FD80gT-5hbCzwT5wf1fGeBmIs2IefUH-mkOzWZpqyGdU7qiq3CsIdWp6FQXnMgLqJI_T9DbYoqEL_CJLclRXG-4YKDaM4JSYQse/64boral7ljmi6me/Venedolar_1.0.0.rar'
+      href='https://download847.mediafire.com/ch4uvsa6ah3gjjSMO5uCi9YD1_VhRclj5vgykASAJXfK8hp8P3IRP5BWOaAKD6yLT-WhLGuFKiN2AA7svHauvpmPC1vofTKq9tmWFa2KAuHzwbktsLV1wDJcM8VCm2C8nAUtfjFRYAGzC-wH_1yky80kyKVb4otgdHusy7bcO6su/8c0jvgkky6qn5p9/Venedolar_v1.0.0.rar'
       className='button download'
       >
           Descarga Venedolar!
