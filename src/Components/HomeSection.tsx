@@ -5,9 +5,7 @@ const HomeSection = () => {
     <section id='homeSection'>
         <div className='venedolarContainer'>
             <h2 id='venedolarTitle'>VENEDOLAR</h2>
-            <div className='logoContainer'>
-                <img src={AppLogo} alt='Venedolar-logo' className='appLogo' loading='lazy'/>
-            </div>
+            <img src={AppLogo} alt='Venedolar-logo' className='appLogo' loading='eager'/>
         </div>
         
         <a href='#downloadSection' className='button' id='goDownloadBtn'>Descarga ya!</a>
