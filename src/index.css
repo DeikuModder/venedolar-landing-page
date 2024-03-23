@@ -2,20 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  scrollbar-color: #15d63f transparent;
-}
-
 body {
-  background-color: #024a3c;
+  background-color: #112e4e;
 }
 
 .lighterBg {
-  background: linear-gradient(#4dc232, #168225, #12751f);
+  background: linear-gradient(#fcfcfc, #e2e2e2, #cccccc);
 }
 
 .darkerBg {
-  background: linear-gradient(#024a3c, #052e26);
+  background: linear-gradient(#112e4e, #091a2c);
 }
 
 @keyframes show {
