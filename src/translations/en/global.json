@@ -1,0 +1,35 @@
+{
+  "download": "Download now!",
+  "presentation": {
+    "text": "Up to date prices of the relevant currencies in Venezuela, free on your pc 💻💵"
+  },
+  "header": {
+    "presentation-link": "Home",
+    "features-link": "Features",
+    "download-link": "Download"
+  },
+  "features": {
+    "1": {
+      "title": "Multiple Monitors",
+      "description": "Choose between up to 5 monitors"
+    },
+    "2": {
+      "title": "Conversor",
+      "description": "Make the conversions you need at any time in the app"
+    },
+    "3": {
+      "title": "Other currencies",
+      "description": "You can check other currencies in case you need it as well!",
+      "extras": {
+        "euro": "Euro",
+        "russian-ruble": "Russian Ruble",
+        "turkish-lira": "Turkish Lira",
+        "chinese-yuan": "Chinese Yuan"
+      }
+    }
+  },
+  "call-to-action": {
+    "title": "What are you waiting for!?",
+    "text": "Stop wasting time searching for the actual dolar value online, keep yourself always updated with Venedolar!"
+  }
+}
