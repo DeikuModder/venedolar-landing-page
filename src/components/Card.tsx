@@ -8,7 +8,7 @@ const Card = ({
   image: string;
 }) => {
   return (
-    <article className="h-[100dvh] mb-8 p-4 w-[300px] flex flex-col justify-center items-center gap-2 bg-gradient-to-b from-neutral-300 via-neutral-300 to-transparent rounded-xl">
+    <article className="h-[100dvh] mb-8 p-4 w-[300px] flex flex-col justify-center items-center gap-2 bg-neutral-300 rounded-xl">
       <div className="p-1 border-b-2 border-black gap-2 flex flex-col justify-center items-center h-[50%]">
         <figure
           className="aspect-square w-[80%] rounded-full border-2 border-neutral-800 bg-[#edf2f7]"
