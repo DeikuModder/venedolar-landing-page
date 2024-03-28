@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: #112e4e;
+  background-color: #2a6faf;
 }
 
 .lighterBg {
@@ -11,7 +11,7 @@ body {
 }
 
 .darkerBg {
-  background: linear-gradient(#112e4e, #091a2c);
+  background: linear-gradient(#2a6faf, #174c7e);
 }
 
 @keyframes show {
