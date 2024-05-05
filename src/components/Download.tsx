@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import Logo from "../assets/logo.webp";
-import DownloadBtn from "./DownloadBtn";
+import DownloadableItem from "./DownloadableItem";
 
 const Download = () => {
   const { t } = useTranslation("global");
@@ -19,12 +19,17 @@ const Download = () => {
         </figure>
       </div>
 
-      <div className="flex flex-col gap-4 items-center sm:items-start">
+      <div className="flex flex-col gap-4 items-center sm:items-start mb-5">
         <p className="text-2xl sm:text-4xl font-bold w-[320px] sm:w-[400px] text-center sm:text-start">
           {t("call-to-action.text")}
         </p>
-        <DownloadBtn />
-        <p className="text-2xl font-semibold italic">V. 1.0.0 | Windows</p>
+
+        <h3 className="text-xl">{t("call-to-action.downloads")}</h3>
+
+        <ul className="flex flex-col justify-center items-center gap-4 sm:items-start sm:text-xl">
+          <DownloadableItem text="Venedolar_1.0.0_x64_en-US.msi | 2.760kb" />
+          <DownloadableItem text="Venedolar_1.0.0_x64-setup.exe | 2.335kb" />
+        </ul>
       </div>
     </section>
   );
