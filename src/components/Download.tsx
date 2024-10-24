@@ -1,6 +1,8 @@
 import { useTranslation } from "react-i18next";
 import Logo from "../assets/logo.webp";
 import DownloadableItem from "./DownloadableItem";
+import VenedolarMSI from "../assets/Venedolar_1.0.0_x64_en-US.msi";
+import VenedolarNSIS from "../assets/Venedolar_1.0.0_x64-setup.exe";
 
 const Download = () => {
   const { t } = useTranslation("global");
@@ -24,11 +26,19 @@ const Download = () => {
           {t("call-to-action.text")}
         </p>
 
-        <h3 className="text-xl">{t("call-to-action.downloads")}</h3>
+        <h3 className="text-2xl font-semibold">
+          {t("call-to-action.downloads")}
+        </h3>
 
         <ul className="flex flex-col justify-center items-center gap-4 sm:items-start sm:text-xl">
-          <DownloadableItem text="Venedolar_1.0.0_x64_en-US.msi | 2.760kb" />
-          <DownloadableItem text="Venedolar_1.0.0_x64-setup.exe | 2.335kb" />
+          <DownloadableItem
+            text="Venedolar_1.0.0_x64_en-US.msi | 3,25MB"
+            url={VenedolarMSI}
+          />
+          <DownloadableItem
+            text="Venedolar_1.0.0_x64-setup.exe | 2,66MB"
+            url={VenedolarNSIS}
+          />
         </ul>
       </div>
     </section>

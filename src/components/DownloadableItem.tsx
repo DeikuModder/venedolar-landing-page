@@ -1,14 +1,11 @@
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-const DownloadableItem = ({ text }: { text: string }) => {
+const DownloadableItem = ({ text, url }: { text: string; url: string }) => {
   return (
-    <li className="border-b border-black">
+    <li className="border-b border-black hover:text-[#15d63f]">
       <FontAwesomeIcon icon={faDownload} />{" "}
-      <a
-        href="https://www.mediafire.com/file/w1vk07921vyctst/Venedolar_1.0.0_x64_en-US.msi/file"
-        target="_blank"
-      >
+      <a href={url} target="_blank">
         {text}
       </a>
     </li>

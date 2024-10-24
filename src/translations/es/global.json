@@ -1,7 +1,7 @@
 {
   "download": "Descarga ya!",
   "presentation": {
-    "text": "Precios actualizados de las monedas relevantes en Venezuela, gratuitamente en su pc 💻💵"
+    "text": "Precios actualizados de las monedas relevantes en Venezuela, al alcance de su pc 💻💵"
   },
   "header": {
     "presentation-link": "Inicio",
@@ -11,7 +11,7 @@
   "features": {
     "1": {
       "title": "Múltiples Monitores",
-      "description": "Escoge entre hasta 5 monitores diferentes"
+      "description": "Escoge entre hasta 5 monitores diferentes, y un mónitor personalizable"
     },
     "2": {
       "title": "Conversor",
@@ -31,6 +31,6 @@
   "call-to-action": {
     "title": "Que estás esperando!?",
     "text": "Deja de perder tiempo buscando en linea cual es el precio actual del dolar, mantente siempre actualizado con Venedolar!",
-    "downloads": "Versiones descargables"
+    "downloads": "Prueba la demo gratuita por 7 dias!"
   }
 }

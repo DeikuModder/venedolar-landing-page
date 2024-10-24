@@ -1,7 +1,7 @@
 {
   "download": "Download now!",
   "presentation": {
-    "text": "Up to date prices of the relevant currencies in Venezuela, free on your pc 💻💵"
+    "text": "Up to date prices of the relevant currencies in Venezuela on your pc 💻💵"
   },
   "header": {
     "presentation-link": "Home",
@@ -11,7 +11,7 @@
   "features": {
     "1": {
       "title": "Multiple Monitors",
-      "description": "Choose between up to 5 monitors"
+      "description": "Choose between up to 5 monitors, including a customizable option"
     },
     "2": {
       "title": "Conversor",
@@ -31,6 +31,6 @@
   "call-to-action": {
     "title": "What are you waiting for!?",
     "text": "Stop wasting time searching for the actual dolar value online, keep yourself always updated with Venedolar!",
-    "downloads": "Download versions"
+    "downloads": "Start your 7 days free-trial version!"
   }
 }
