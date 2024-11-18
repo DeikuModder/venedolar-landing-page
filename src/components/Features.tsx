@@ -16,9 +16,6 @@ const Features = () => {
               {t("features.1.description")}
               <li>BCV</li>
               <li>Paralelo</li>
-              <li>Binance</li>
-              <li>CriptoDolar</li>
-              <li>DolarToday</li>
             </ul>
           </>
         </Card>
