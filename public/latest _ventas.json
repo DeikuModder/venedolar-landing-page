@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2024-12-13T19:48:52.750Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRY1Z5czBuNWMzVklLbTI4S1lJZ29NY0duQTJBZXdETjBNYlFCYzBYekt0Y0dvSGsvdUZrbWIxQ0xVamc2M1JWQk9pcFF1aHJ6UDZVaHRBNUF4cVN0ZGZwbys1cUhrSVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTE5MzI4CWZpbGU6cHJvZ3JhbWEtZGUtdmVudGFzXzAuMS4wX3g2NF9lbi1VUy5tc2kuemlwClA4ekVyTmlaZllRRmM4K1l4WmVXOGNnbUF1aTc1SnN3Z21YeEozTHRPSFk5bk14bmRKb3YxbmJiZHhHWVRLWnA3ckpWN3pzUUtxSGdlWUdNWjlYd0RBPT0K",
+      "url": "https://github.com/DeikuModder/Programa-de-Ventas/releases/download/v0.1.0/programa-de-ventas_0.1.0_x64_en-US.msi.zip"
+    }
+  }
+}
