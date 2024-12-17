@@ -1,8 +1,8 @@
 import { useTranslation } from "react-i18next";
 import Logo from "../assets/logo.webp";
 import DownloadableItem from "./DownloadableItem";
-import VenedolarMSI from "../assets/Venedolar_1.0.0_x64_en-US.msi";
-import VenedolarNSIS from "../assets/Venedolar_1.0.0_x64-setup.exe";
+import VenedolarMSI from "../assets/Venedolar_1.1.1_x64_en-US.msi";
+import VenedolarNSIS from "../assets/Venedolar_1.1.1_x64-setup.exe";
 
 const Download = () => {
   const { t } = useTranslation("global");
