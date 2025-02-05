@@ -1,7 +1,8 @@
 {
   "download": "Download now!",
   "presentation": {
-    "text": "Up to date prices of the relevant currencies in Venezuela on your pc 💻💵"
+    "text": "Up to date prices of the relevant currencies in Venezuela on your pc 💻💵",
+    "subtext": "The most trustful program, fast and effective to handle all your monetary conversion operations"
   },
   "header": {
     "presentation-link": "Home",
@@ -9,6 +10,10 @@
     "download-link": "Download"
   },
   "features": {
+    "article": {
+      "title": "What are the features?",
+      "text": "Venedolar not only shows you the current equivalence of the USD, there's a lot more you can do with it!"
+    },
     "1": {
       "title": "Multiple Monitors",
       "description": "Choose between up to 3 monitors, including a customizable option"
@@ -26,6 +31,14 @@
         "turkish-lira": "Turkish Lira",
         "chinese-yuan": "Chinese Yuan"
       }
+    },
+    "4": {
+      "title": "Display mode",
+      "description": "Display only the relevant information and put Venedolar on a screen your clients can watch!"
+    },
+    "5": {
+      "title": "History",
+      "description": "Check the price of the USD since the last time you opened the app!"
     }
   },
   "call-to-action": {

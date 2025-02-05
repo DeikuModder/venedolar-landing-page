@@ -1,7 +1,8 @@
 {
   "download": "Descarga ya!",
   "presentation": {
-    "text": "Precios actualizados de las monedas relevantes en Venezuela, al alcance de su pc 💻💵"
+    "text": "Precios actualizados de las monedas relevantes en Venezuela, al alcance de su pc 💻💵",
+    "subtext": "El programa mas confiable, rápido y eficiente para manejar sus operaciones de conversión monetaria"
   },
   "header": {
     "presentation-link": "Inicio",
@@ -9,6 +10,10 @@
     "download-link": "Descarga"
   },
   "features": {
+    "article": {
+      "title": "Que funcionalidades ofrece?",
+      "text": "Venedolar no solo te muestra el precio del dolar actual, hay mucho mas que puede hacer por ti!"
+    },
     "1": {
       "title": "Múltiples Monitores",
       "description": "Escoge entre hasta 2 monitores diferentes, y un mónitor personalizable"
@@ -26,6 +31,14 @@
         "turkish-lira": "Lira Turca",
         "chinese-yuan": "Yen Chino"
       }
+    },
+    "4": {
+      "title": "Modo mostrador",
+      "description": "Muestre solo la información relevante para su clientela!"
+    },
+    "5": {
+      "title": "Historial",
+      "description": "Revise el precio del dolar desde la ultima vez que haya abierto la aplicación!"
     }
   },
   "call-to-action": {

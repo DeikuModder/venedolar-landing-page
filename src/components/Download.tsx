@@ -10,7 +10,7 @@ const Download = () => {
   return (
     <section
       id="download"
-      className="flex flex-col justify-center items-center gap-8 min-h-[100dvh] sm:flex-row sm:gap-8 lighterBg"
+      className="flex flex-col justify-center items-center gap-8 min-h-[100dvh] sm:flex-row sm:gap-8"
     >
       <div className="flex flex-col justify-center items-center gap-4">
         <h3 className="bg-[#112e4e] text-[#15d63f] text-4xl p-2 w-[250px] rounded-xl text-center font-bold sm:text-5xl sm:w-fit">

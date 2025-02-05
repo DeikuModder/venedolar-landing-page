@@ -41,14 +41,14 @@ const Header = () => {
             <FontAwesomeIcon icon={faX} />
           </button>
           <ul className="text-xl font-bold flex flex-col mt-4 sm:mt-0 sm:text-2xl sm:flex-row sm:items-center sm:justify-end gap-8 ">
-            <li className="border-2 border-slate-200 p-2 rounded-xl">
+            <li className=" p-2 rounded-xl">
               <a href="#presentation">
                 <FontAwesomeIcon icon={faHome} />{" "}
                 {t("header.presentation-link")}
               </a>
             </li>
 
-            <li className="border-2 border-slate-200 p-2 rounded-xl">
+            <li className=" p-2 rounded-xl">
               <a href="#features">
                 <FontAwesomeIcon icon={faToolbox} /> {t("header.features-link")}
               </a>
