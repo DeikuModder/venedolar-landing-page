@@ -1,15 +1,15 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-12-17T14:22:18.880Z",
+  "pub_date": "2025-06-21T18:32:11.371Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWGdiRDgvQjRPNWFkTjlkUVhMNlJUcWhrYkpPSGRVYzBBalp1eTkrNnRyT0RYMHA5WDhweFRXT0dXSU5oSnd6dXFxNnlTZlR0bEVLNkdSd2FGbHBtclpaZGFlQS9Ocmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NDQ0NzUwCWZpbGU6VmVuZWRvbGFyLmFwcC50YXIuZ3oKR2ZySTczeDhJSFVQT2JZdmRPMkgwSmVGMUs2c1lLZks2d0xoSHNzZW41b0lrNHlFZWNxVUhpdkFtdTJHbWVjb0J5cGVtNHZDNW11a3B3Smd0NjVXQkE9PQo=",
-      "url": "https://github.com/DeikuModder/Venedolar/releases/download/v1.1.1/Venedolar_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWGdiRDgvQjRPNWJWbCs4N1FoaC9pWHVuajdMd0ZSMjQ4UGZLVzFDWHlZOE0zQkJDY0xNMU5iU2kwWEJEbVlrNVlSQk0rMUNKek52bktKQVBreFFwNTV3QmxqSnFMMXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNTMwMTgxCWZpbGU6VmVuZWRvbGFyLmFwcC50YXIuZ3oKZzV4MnBvanRGVTlBYmNIb0VnS1pSYU42RGVTQzV1NUUvNGR0WUNoRHBvTVo4UitJMmNwR25aK0tlL2ppejc3eUlNQ2EzQVUzdTQzZnVGRUJNVUlGQVE9PQo=",
+      "url": "https://github.com/DeikuModder/Venedolar/releases/download/v1.1.2/Venedolar_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWGdiRDgvQjRPNVlsUDlOK0MxbkJkNk4yRlM0dS8zcVRJcGprcFVCTExwRERlaFdyVjRoNUsyT1VNeWdpRzhQdENDbzIrc1lCY1RjYUFCR0EyNGdQZGl1N0o1SElveVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0NDQ1MzMwCWZpbGU6VmVuZWRvbGFyXzEuMS4xX3g2NF9lbi1VUy5tc2kuemlwCk5SeWh5cW00UUpDM3RVdVJwSUVDT29aSjhXclJ5K0hrYzdJNVdLeWE5cVU0T1A1blZZTy9INVV5c1Rta00xdXpDYUNXaUdkMVBnN1lCTmdiR3BHekN3PT0K",
-      "url": "https://github.com/DeikuModder/Venedolar/releases/download/v1.1.1/Venedolar_1.1.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWGdiRDgvQjRPNVlrYVJuTFluWUNpZzcwaWFYK0pheEpkOHFsRFIvbG1JYzd5R0lHZFUvbGFuS0k5LzZiM2ZER2Y3cExLRmw5cWdsblBUdWZsekdzdHZ6aXBHSkZGZHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNTMwNzI2CWZpbGU6VmVuZWRvbGFyXzEuMS4yX3g2NF9lbi1VUy5tc2kuemlwCkJFSXI1ZmxUK3k5SlNpQVhsS2NQZUtCUXZEL1orZVlVWGZkYWs3UHhDL29QQzdGQm5JcDBOMDhGSUxZcmxaOE5oUEdtUmlSdDBlWndBUm5GNzlCZURRPT0K",
+      "url": "https://github.com/DeikuModder/Venedolar/releases/download/v1.1.2/Venedolar_1.1.2_x64_en-US.msi.zip"
     }
   }
 }
